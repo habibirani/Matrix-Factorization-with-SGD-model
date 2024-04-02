@@ -1,5 +1,8 @@
 # Matrix Factorization with Adaptive Learning Rate and Fractional Optimization
 
+Code from the paper titled "Auto-tuning HyperParameters of SGD Matrix Factorization-Based Recommender Systems Using Genetic Algorithm".
+Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
+
 This Python script performs matrix factorization using adaptive learning rate and fractional optimization techniques to predict user-item ratings in a collaborative filtering setting. The code is designed to handle the MovieLens dataset with user ratings for movies.
 
 ## Requirements
