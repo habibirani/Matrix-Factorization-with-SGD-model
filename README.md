@@ -4,6 +4,8 @@ Code from the paper titled "Auto-tuning HyperParameters of SGD Matrix Factorizat
 
 Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
 
+#### Auto-tuning HyperParameters of SGD Matrix Factorization-Based Recommender Systems Using Genetic Algorithm Paper: [PDF](https://ieeexplore.ieee.org/abstract/document/9854956)
+
 This Python script performs matrix factorization using adaptive learning rate and fractional optimization techniques to predict user-item ratings in a collaborative filtering setting. The code is designed to handle the MovieLens dataset with user ratings for movies.
 
 ## Requirements
@@ -33,3 +35,18 @@ The code expects the MovieLens dataset to be available in a file named 'u.data'.
 4. The RMSE will be displayed to evaluate the model's performance.
 
 Feel free to modify the code as needed and experiment with different hyperparameters to achieve better results. Enjoy experimenting with matrix factorization and collaborative filtering for movie recommendations!
+
+<!-- CITATION -->
+## Citation
+
+
+```bibtex
+@inproceedings{irani2022auto,
+  title={Auto-tuning HyperParameters of SGD Matrix Factorization-Based Recommender Systems Using Genetic Algorithm},
+  author={Irani, Habib and Elahi, Fatemeh and Fazlali, Mahmood and Shahsavari, Mahyar and Farahani, Bahar},
+  booktitle={2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS)},
+  pages={1--7},
+  year={2022},
+  organization={IEEE}
+}
+```
