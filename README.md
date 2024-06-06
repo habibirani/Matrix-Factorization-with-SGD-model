@@ -2,7 +2,7 @@
 
 Code from the paper titled "Auto-tuning HyperParameters of SGD Matrix Factorization-Based Recommender Systems Using Genetic Algorithm".
 
-Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
+Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://ieeexplore.ieee.org/abstract/document/9854956)
 
 #### Auto-tuning HyperParameters of SGD Matrix Factorization-Based Recommender Systems Using Genetic Algorithm Paper: [PDF](https://ieeexplore.ieee.org/abstract/document/9854956)
 
